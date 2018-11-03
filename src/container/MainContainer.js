@@ -20,6 +20,8 @@ class MainContainer extends React.Component {
                 }}>
                     点击刷新member
                 </button>
+
+                
                 <div style={{padding: 20, backgroundColor: 'red'}} onClick={() => {
                     this.handleSDK()
                 }}>
