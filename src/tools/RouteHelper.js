@@ -1,4 +1,4 @@
-import history from '../depend/history';
+import history from '../denpend/history';
 
 /**
  * 界面跳转
